@@ -1,9 +1,8 @@
 # UNP_PROJECT_BANK_MARKETING_DATA_ANALYSIS_USING_ML
-Banks conduct marketing campaigns to promote their financial products and encourage customers to subscribe. However, customers respond differently to these campaigns, making it difficult for banks to identify customers who are more likely to respond positively. 
-This project uses customer and campaign-related data to analyse response patterns and predict customer subscription using machine learning. 
-Three classification models—Logistic Regression, Decision Tree and Random Forest—were implemented and evaluated using different parameters and train-test ratios. 
-The Decision Tree was selected as the best model based on Recall and F1 Score, with duration and previous campaign success identified as the most influential factors. 
-The model also identified 618 non-subscribers as potential future subscribers, providing useful insights for targeted marketing.
+I did this project in collaboration with UNP, where I developed a Bank Marketing Campaign Prediction model using Python and Machine Learning to predict customer responses to bank marketing campaigns.
+The project involved analyzing customer demographics, financial information, and campaign-related factors. I performed data preprocessing and exploratory data analysis to identify factors influencing campaign responses.
+I implemented Logistic Regression, Decision Tree, and Random Forest classification models and evaluated them using Accuracy, Precision, Recall, and F1 Score. 
+The Decision Tree model was selected as the final model based on its Recall and F1 Score. This project strengthened my skills in Python, machine learning, classification, model evaluation, and customer targeting.
 
 
 
